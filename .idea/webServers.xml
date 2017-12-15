@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2fdf58d9-d9ee-4ab1-916f-bae1f078d939" name="upload" url="http://40.71.46.165">
+        <fileTransfer host="40.71.46.165" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/html/hackerton" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
