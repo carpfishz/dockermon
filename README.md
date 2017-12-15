@@ -9,3 +9,5 @@ slack slack
 
 #Usage
 slack slack
+
+slack Test! #mooncinnamon
